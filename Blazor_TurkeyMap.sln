@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_TurkeyMap", "Blazor_TurkeyMap.csproj", "{10FA2140-9588-4240-8133-127E2F7DF99E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10FA2140-9588-4240-8133-127E2F7DF99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FA2140-9588-4240-8133-127E2F7DF99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FA2140-9588-4240-8133-127E2F7DF99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FA2140-9588-4240-8133-127E2F7DF99E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE0D800-844E-4375-B507-8B0848B858CD}
+	EndGlobalSection
+EndGlobal
